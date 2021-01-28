@@ -9,7 +9,7 @@ import GraphicInterface.Calculator;
 
 /**
  *
- * @author HP
+ * @author Frida Fernanda Arcos Guitierrez
  */
 public class StandardCalculator {
 
